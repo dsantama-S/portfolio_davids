@@ -83,7 +83,7 @@ const about = {
       <>
         David Santamaría is a Backend Engineer specialized in space missions, 
         with broad experience in backend and onboard software development for various projects.
-        He works with technologies such as Docker, Jenkins, Python, and C++ unit testing, focusing on validation, automation, and embedded systems.
+        He works with technologies such as Docker, Jenkins, Python, and C/C++, focusing on experienced in validation, automation, embedded systems, API development, containerization, CI/CD, and software engineering in Python and C/C++.
       </>
     ),
   },
