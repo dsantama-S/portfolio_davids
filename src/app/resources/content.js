@@ -55,8 +55,8 @@ const home = {
   headline: <>Backend Engineer</>,
   subline: (
     <>
-      I'm David, a Backend Engineer at <InlineCode>Deimos Space</InlineCode> specializing in software development
-      <br /> for a space mission, with a focus on validation, automation, and embedded systems.
+      I'm David, a Backend Engineer at <InlineCode>Deimos Space</InlineCode> specializing in software development,
+      <br /> now working for the MIURA5 space mission, experienced in validation, automation, embedded systems, API development, containerization, CI/CD, and software engineering in Python and C/C++..
     </>
   ),
 };
